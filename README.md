@@ -29,7 +29,7 @@ GitHub: [christian55diaz](https://github.com/christian55diaz)
 
 Deployment: N/A
 
-Video: (a video will be uplaoded in the 24 hours currently in class and starting to work on my next project 2 of the program)
+Video: https://youtu.be/GrUTPGyi2po
   
 ## Installation
   
